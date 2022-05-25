@@ -16,11 +16,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-
-/**
- * Provides the Apache Sling Permissions.
- */
-@Version("2.0.0")
 package org.apache.sling.permissions;
 
-import org.osgi.annotation.versioning.Version;
+public interface SlingUserPermissions {
+}
